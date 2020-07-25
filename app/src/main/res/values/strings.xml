@@ -2,6 +2,7 @@
     <string name="hint_word">World...</string>
     <string name="button_save">Save</string>
     <string name="empty_not_save">Word not saved because it is empty.</string>
-    <string name="app_name">Countries</string>
+    <string name="app_name">Room Word Sample</string>
+    <string name="add_word">Add</string>
 
 </resources>

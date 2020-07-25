@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
     android:layout_width="match_parent"
@@ -18,9 +19,9 @@
         android:id="@+id/button_save"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_margin="@dimen/big_padding"
         android:background="@color/colorPrimary"
         android:text="@string/button_save"
-        android:layout_margin="@dimen/big_padding"
         android:textColor="@color/buttonLabel" />
 
 </LinearLayout>
